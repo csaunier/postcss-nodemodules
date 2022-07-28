@@ -1,0 +1,4 @@
+/node_modules
+/workspaces/website/node_modules
+/workspaces/library/node_modules
+.idea

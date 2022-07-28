@@ -1,0 +1,13 @@
+@custom-media --medium-viewport (min-width: 48rem);
+
+@import "~normalize.css/normalize.css";
+
+.app {
+	background: yellow;
+}
+
+@media (--medium-viewport) {
+	.app {
+		background: palevioletred;
+	}
+}
